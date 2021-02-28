@@ -1,0 +1,1 @@
+Small project - timer widget. It starts from 30 seconds by default, but any number can be entered to represent seconds. While timer is running, circle border is running low as well to visualise remaining time.
